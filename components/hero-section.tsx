@@ -83,7 +83,7 @@ export function HeroSection() {
 
             <motion.div variants={fadeUp} className="mt-8 flex flex-wrap items-center gap-4">
               <a
-                href="https://wa.me/916355268155"
+                href="https://wa.me/917087568155"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-full bg-primary px-7 py-3.5 text-base font-semibold text-white transition-colors hover:bg-dark-green"

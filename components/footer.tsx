@@ -60,7 +60,7 @@ export function Footer() {
                 <Instagram size={16} />
               </a>
               <a
-                href="https://wa.me/916355268155"
+                href="https://wa.me/917087568155"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex h-9 w-9 items-center justify-center rounded-full border border-black/15 transition-colors hover:border-primary hover:text-primary"
@@ -127,8 +127,8 @@ export function Footer() {
               <li className="flex items-center gap-2.5">
                 <Phone size={18} className="shrink-0" style={{ color: "#00A855" }} />
                 <div className="flex flex-col gap-0.5">
-                  <a href="https://wa.me/916355268155" className="transition-colors hover:text-primary">WA: 6355268155</a>
-                  <a href="tel:+916355268155" className="transition-colors hover:text-primary">Call: 6355268155</a>
+                  <a href="https://wa.me/917087568155" className="transition-colors hover:text-primary">WA: +91 7087568155</a>
+                  <a href="tel:+917087568155" className="transition-colors hover:text-primary">Call: +91 7087568155</a>
                 </div>
               </li>
               <li className="flex items-center gap-2.5">

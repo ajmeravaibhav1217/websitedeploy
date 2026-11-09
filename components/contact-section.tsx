@@ -54,7 +54,7 @@ export function ContactSection() {
 
             <div className="flex flex-col gap-4 mb-8">
               <a
-                href="https://wa.me/916355268155"
+                href="https://wa.me/917087568155"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-4 transition-colors hover:border-primary"
@@ -65,12 +65,12 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-sans font-semibold text-foreground text-sm">WhatsApp Us</p>
-                  <p className="text-xs text-muted-foreground">6355268155</p>
+                  <p className="text-xs text-muted-foreground">+91 7087568155</p>
                 </div>
               </a>
 
               <a
-                href="tel:+916355268155"
+                href="tel:+917087568155"
                 className="flex items-center gap-4 p-4 transition-colors hover:border-primary"
                 style={{ background: "rgba(255,255,255,0.72)", backdropFilter: "blur(16px)", border: "1px solid rgba(255,255,255,0.85)", borderRadius: "16px", boxShadow: "0 2px 16px rgba(0,0,0,0.05)" }}
               >
@@ -79,7 +79,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-sans font-semibold text-foreground text-sm">Call Now</p>
-                  <p className="text-xs text-muted-foreground">6355268155</p>
+                  <p className="text-xs text-muted-foreground">+91 7087568155</p>
                 </div>
               </a>
 
@@ -188,7 +188,7 @@ export function ContactSection() {
                       Send Inquiry <Send size={16} />
                     </button>
                     <a
-                      href="https://wa.me/916355268155"
+                      href="https://wa.me/917087568155"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-center text-sm font-semibold text-primary hover:underline"
